@@ -1,6 +1,6 @@
 ### Hello World 👋👋👋
 
-### I am Muhiddin Turonov and I am a Backend Developer @ Radius.uz
+### I am Muhiddin Turonov and I am a Backend Developer @ Algorithm gateway
 
 
 [website]: https://github.com/Muhiddin1408
