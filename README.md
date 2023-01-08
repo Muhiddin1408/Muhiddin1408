@@ -1,6 +1,6 @@
 ### Hello World 👋👋👋
 
-### I am Muhiddin Turonov and I am a Backend Developer @ Algorithm gateway
+### I am Muhiddin Turonov and I am a Backend Developer 
 
 
 [website]: https://github.com/Muhiddin1408
