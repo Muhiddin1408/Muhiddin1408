@@ -1,6 +1,6 @@
 ### Hello World 👋👋👋
 
-### I am Muhiddin Turonov and I am a Backend Developer 
+### I am Muhiddin Turonov and I am a Backend Developer and DATA Science
 
 
 [website]: https://github.com/Muhiddin1408
