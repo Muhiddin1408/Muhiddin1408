@@ -1,4 +1,4 @@
-### Hello World 👋👋👋
+
 
 ### I am Muhiddin Turonov and I am a Backend Developer and DATA Science
 
